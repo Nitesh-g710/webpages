@@ -1,6 +1,4 @@
-** IdeaM5 link :- https://nitesh-g710.github.io/webpages/IdeaM5/staticIndex.html
-** Multi link :- https://nitesh-g710.github.io/webpages/Multi/index.html
-** Landscrape Link :- https://nitesh-g710.github.io/webpages/landscraper/landscraper/index.html
-** Netflix homepage link :- https://nitesh-g710.github.io/webpages/netflix1/index.html
-
-
+- **IdeaM5:** [Click Here](https://nitesh-g710.github.io/webpages/IdeaM5/staticIndex.html)  
+- **Multi:** [Click Here](https://nitesh-g710.github.io/webpages/Multi/index.html)  
+- **Landscrape:** [Click Here](https://nitesh-g710.github.io/webpages/landscraper/landscraper/index.html)  
+- **Netflix Homepage Clone:** [Click Here](https://nitesh-g710.github.io/webpages/netflix1/index.html)  
