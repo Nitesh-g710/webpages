@@ -1,4 +1,6 @@
-IdeaM5 is a basic webpage template.
-link:- https://nitesh-g710.github.io/webpages/IdeaM5/staticIndex.html
+** IdeaM5 link :- https://nitesh-g710.github.io/webpages/IdeaM5/staticIndex.html
+** Multi link :- https://nitesh-g710.github.io/webpages/Multi/index.html
+** Landscrape Link :- https://nitesh-g710.github.io/webpages/landscraper/landscraper/index.html
+** Netflix homepage link :- https://nitesh-g710.github.io/webpages/netflix1/index.html
 
-Note- there are some changes to be done, so its not fully completed.
+
